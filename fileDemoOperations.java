@@ -38,3 +38,13 @@ try {
 	}
 
 }
+------------------------------------------out put --------------------------------------
+file alresdy present at the location
+file Name:demoFile1.txt
+Can read the file:true
+Can write in the file:true
+Can be exhecute filedata:true
+get the address of file:C:\javapractice\demoFile1.txt
+can get idea about free space in file:72495300608
+shows changes in file:1681906402311
+can be delete file:true
